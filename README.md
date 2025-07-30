@@ -1,4 +1,6 @@
-Quote-Generator
+Quote-Generator-
+<img width="621" height="304" alt="image" src="https://github.com/user-attachments/assets/6f0c8e13-95f7-4d58-af9e-47f3ca3342c5" />
+
 
 A simple, interactive webpage that generates random meditation and breathing-themed quotes to help you relax and take a "chill pill." Each time you click the button, a new inspirational quote appears along with a calming background color change to enhance the mood.
 
