@@ -1,4 +1,20 @@
 Quote-Generator-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="621" height="304" alt="image" src="https://github.com/user-attachments/assets/6f0c8e13-95f7-4d58-af9e-47f3ca3342c5" />
 
 
